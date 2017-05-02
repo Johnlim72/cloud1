@@ -7,6 +7,6 @@
 <title>Hello World - JSP tutorial</title>
 </head>
 <body>
-    <%= "Hello Class! Welcome to John Lim's Java Web App hosted on Tomcat" %>
+    <%= "Hello Class! Welcome to John Lim's Java Web App hosted on a Windows VM using a Tomcat Server" %>
 </body>
 </html>
